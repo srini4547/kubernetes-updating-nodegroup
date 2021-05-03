@@ -1,7 +1,7 @@
 # kubernetes-updating-nodegroup
 
 # Pre-Requisites
-    EKS-cluster
+    -  EKS-cluster
 # Step:1
   Need to create cluster with one node group. Here I created nodegroup with the name of "eksdemo-ng-public1".
   
